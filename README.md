@@ -1,1 +1,1 @@
-# Java MultiThread(JMM)学习demo
+# Java MultiThread(JMT)学习demo
